@@ -57,8 +57,8 @@ This is a Spring Boot application designed for managing animals in a shelter. Th
    ```
 
 5. Access the application in your browser at:
-   ```
-http://localhost:8080/animals
+   ```bash
+   http://localhost:8080/animals
    ```
 
 ---
